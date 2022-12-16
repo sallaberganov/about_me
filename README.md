@@ -5,7 +5,7 @@
 У меня уже накопился достаточно хороший опыт как со стороны бизнеса (как рисковик), так и со стороны аналитики. В настоящее время, ищу возможность перейти в более data-driven компанию, чтобы дальше углубиться в сферу data science.
 
 Основные инструменты и навыки, полученные при обучении:
-Языки: Python, SQL(Select, Joins, Subqueries, Adv. Queries, Window Functions)
+Языки: Python, SQL(Select, Joins, Subqueries, Adv. queries, Window Functions)
 Анализ данных: библиотеки Pandas, NumPy, SciPy, Statsmodel
 Визуализация: Matplotlib, Plotly, Seaborn
 Построение дашбордов: Tableau
